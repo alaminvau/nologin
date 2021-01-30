@@ -2,6 +2,12 @@
 #coding=utf-8
 #The Credit For This Code Goes To Demon
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
+
+
+
+
+
+
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
 for n in range(1000):
@@ -75,9 +81,8 @@ Use at your own risk
 ➣ Pre help   : Faisal Ahmed🖤
 --------------------------------------------------
                                 '''
-
-    os.system("clear")
-		print (logo)
+clear
+print (logo)
 
 CorrectUsername = "goamara"
 CorrectPassword = "sara"
