@@ -81,7 +81,7 @@ Use at your own risk
 ➣ Pre help   : Faisal Ahmed🖤
 --------------------------------------------------
                                 '''
-clear
+os.system('clear')
 print (logo)
 
 CorrectUsername = "goamara"
