@@ -53,13 +53,20 @@ def cb():
     os.system('clear')
 ##### LOGO #####
 logo='''
- 
---------------------------------------------------
-➣ Auther   : Demon
-➣ Whatsapp No +9651900465
-➣ Allways Be Happy and keep smile
-➣ 😐
---------------------------------------------------
+  _____                             
+ |  __ \                            
+ | |  | | ___ _ __ ___   ___  _ __  
+ | |  | |/ _ \ '_ ` _ \ / _ \| '_ \ 
+ | |__| |  __/ | | | | | (_) | | | |
+ |_____/ \___|_| |_| |_|\___/|_| |_|
+              
+      jalan(" Nothing is impossible...")
+jalan("--------------------------------------------------")
+jalan("➣ Author     : Demon")
+Jalan("➣ GitHub     : https://GitHub.com/abdullahalemon2")
+jalan("➣ Made with  : Imranvau🖤")
+jalan("➣ Pre help   : Faisal Ahmed🖤")
+jalan("--------------------------------------------------")
                                 '''
  
 back = 0
@@ -82,7 +89,6 @@ def menu():
 	print '[10] Poland'
 	print
 	print "[11] UPDATE COMMAND"
-#	print '[3] Follow Me On Facebook'
 	print '[0]  Exit            '
 	print 50*'-'
 	action()
