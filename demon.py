@@ -59,14 +59,15 @@ logo='''
  | |  | |/ _ \ '_ ` _ \ / _ \| '_ \ 
  | |__| |  __/ | | | | | (_) | | | |
  |_____/ \___|_| |_| |_|\___/|_| |_|
-              
-      jalan("\033Nothing is impossible...")
-jalan("\033--------------------------------------------------")
-jalan("\033➣ Author     : Demon")
-Jalan("\033➣ GitHub     : https://GitHub.com/abdullahalemon2")
-jalan("\033➣ Made with  : Imranvau🖤")
-jalan("\033➣ Pre help   : Faisal Ahmed🖤")
-jalan("\033--------------------------------------------------")
+
+jalan("\033[1;96m")      
+jalan("\033[1;96m033Nothing is impossible...")
+jalan("\033[1;96m--------------------------------------------------")
+jalan("\033[1;96m➣ Author     : Demon")
+jalan("\033[1;96m➣ GitHub     : https://GitHub.com/abdullahalemon2")
+jalan("\033[1;96m➣ Made with  : Imranvau🖤")
+jalan("\033[1;96m➣ Pre help   : Faisal Ahmed🖤")
+jalan("\033[1;96m--------------------------------------------------")
                                 '''
  
 back = 0
