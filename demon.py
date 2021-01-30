@@ -47,10 +47,17 @@ def psb(z):
 		sys.stdout.flush()
 		time.sleep(0.03)
  
+
 def t():
     time.sleep(1)
 def cb():
     os.system('clear')
+
+def jalan(z):
+	for e in z + '\n':
+		sys.stdout.write(e)
+		sys.stdout.flush()
+		time.sleep(00000.1)
 ##### LOGO #####
 logo='''
   _____                             
@@ -60,8 +67,8 @@ logo='''
  | |__| |  __/ | | | | | (_) | | | |
  |_____/ \___|_| |_| |_|\___/|_| |_|
 
-      
-Nothing is impossible...")
+jalan("\033[1;97m     Nothing is impossible...")
+jalan("\033[1;97m  Use at your own risk😒")
 --------------------------------------------------")
 ➣ Author     : Demon")
 ➣ GitHub     : https://GitHub.com/abdullahalemon2")
@@ -69,7 +76,27 @@ Nothing is impossible...")
 ➣ Pre help   : Faisal Ahmed🖤")
 --------------------------------------------------")
                                 '''
- 
+
+CorrectUsername = "demon"
+CorrectPassword = "nologin"
+
+
+loop = 'true'
+while (loop == 'true'):
+    username = raw_input("\033[1;96m[☆] \x1b[1;97mTool USERNAME \x1b[1;96m>>>> ")
+    if (username == CorrectUsername):
+    	password = raw_input("\033[1;96m[☆] \x1b[1;97mTool PASWORD \x1b[1;96m>>>> ")
+        if (password == CorrectPassword):
+            print "Logged in successfully as " + username
+            loop = 'false'
+        else:
+            print "\033[1;91mWrong!,\033[1;92mjoin our FB Group to get the correct password"
+            os.system('xdg-open https://facebook.com/groups/cyberzone360')
+
+    else:
+        print "\033[1;91mWrong!,\033[1;92mjoin our FB Group to get the correct username"
+        
+
 back = 0
 successful = []
 cpb = []
