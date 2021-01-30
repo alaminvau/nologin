@@ -25,11 +25,11 @@
 
  `apt upgrade`
 
- `git clone https//GitHub.com/abdullahalemon2/demon`
+ `git clone https//GitHub.com/abdullahalemon2/nologin`
 
- `cd demon`
+ `cd nologin`
 
- `python2 nologin.py`
+ `python2 demon.py`
 
 
 ### Notice
