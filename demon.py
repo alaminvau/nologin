@@ -60,14 +60,14 @@ logo='''
  | |__| |  __/ | | | | | (_) | | | |
  |_____/ \___|_| |_| |_|\___/|_| |_|
 
-jalan("\033[1;96m")      
-jalan("\033[1;96m033Nothing is impossible...")
-jalan("\033[1;96m--------------------------------------------------")
-jalan("\033[1;96m➣ Author     : Demon")
-jalan("\033[1;96m➣ GitHub     : https://GitHub.com/abdullahalemon2")
-jalan("\033[1;96m➣ Made with  : Imranvau🖤")
-jalan("\033[1;96m➣ Pre help   : Faisal Ahmed🖤")
-jalan("\033[1;96m--------------------------------------------------")
+      
+Nothing is impossible...")
+--------------------------------------------------")
+➣ Author     : Demon")
+➣ GitHub     : https://GitHub.com/abdullahalemon2")
+➣ Made with  : Imranvau🖤")
+➣ Pre help   : Faisal Ahmed🖤")
+--------------------------------------------------")
                                 '''
  
 back = 0
