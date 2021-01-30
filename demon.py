@@ -283,10 +283,6 @@ def action():
 	    psb (" Tool has been successfully updated")
 	    time.sleep(2)
 	    os.system("python2 .README.md")
-#	elif chb =='3':
-#	    os.system('xdg-open https://www.facebook.com/100002059014174/posts/2677733205638620/?substory_index=0&app=fbl')
-#	    time.sleep(1)
-#	    menu()
 	elif bch =='0':
 		exb()
 	else:
@@ -294,9 +290,9 @@ def action():
 		action()
  
 	xxx = str(len(id))
-	psb ('[✓] Total Numbers: '+xxx)
+	psb ('[🖤] Total Numbers: '+xxx)
 	time.sleep(0.5)
-	psb ('[✓] Please wait, Demon finding id for you ...')
+	psb ('[🧐] Please wait, Demon finding accounts ...')
 	time.sleep(0.5)
 	psb ('[!] To Stop Press CTRL Then Press z')
 	time.sleep(0.5)
