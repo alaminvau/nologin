@@ -61,24 +61,26 @@ def jalan(z):
 ##### LOGO #####
 logo='''
   _____                             
- |  __ \                            
+ |  __ \   Nothing is impossible                    
  | |  | | ___ _ __ ___   ___  _ __  
  | |  | |/ _ \ '_ ` _ \ / _ \| '_ \ 
  | |__| |  __/ | | | | | (_) | | | |
  |_____/ \___|_| |_| |_|\___/|_| |_|
 
-jalan("\033[1;97m     Nothing is impossible...")
-jalan("\033[1;97m  Use at your own risk😒")
---------------------------------------------------")
-➣ Author     : Demon")
-➣ GitHub     : https://GitHub.com/abdullahalemon2")
-➣ Made with  : Imranvau🖤")
-➣ Pre help   : Faisal Ahmed🖤")
---------------------------------------------------")
+Use at your own risk
+--------------------------------------------------
+➣ Author     : Demon
+➣ GitHub     : https://GitHub.com/abdullahalemon2
+➣ Made with  : Imranvau🖤
+➣ Pre help   : Faisal Ahmed🖤
+--------------------------------------------------
                                 '''
 
-CorrectUsername = "demon"
-CorrectPassword = "nologin"
+    os.system("clear")
+		print (logo)
+
+CorrectUsername = "goamara"
+CorrectPassword = "sara"
 
 
 loop = 'true'
