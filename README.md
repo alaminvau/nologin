@@ -40,6 +40,6 @@
 
 ### Username and Password
 
-* Username `goamara`
+* Username `Demon`
 
-* Password `sara`
+* Password `nologin`
